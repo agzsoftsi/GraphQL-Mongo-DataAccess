@@ -1,0 +1,26 @@
+{
+    "peers": [
+        {
+            "id": 1,
+            "name": "Carlos Garcia",
+            "score":145,
+            "github":"https://github.com/agzsoftsi/" 
+        },
+        {
+            "id": 2,
+            "name": "Leonardo Calderon",
+            "score":180,
+            "github":"https://github.com/leocjj/" 
+        },
+        {
+            "id": 3,
+            "name": "Ivan Lasso",
+            "score":200,
+            "github":"https://github.com/ilasso/" 
+        }
+
+    ]
+
+
+
+}
