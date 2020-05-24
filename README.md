@@ -32,6 +32,11 @@ npm install express graphql express-graphql
 ```
 
 
+4. Create the index.js and run the server
+```
+node index.js
+```
+
 
 
 
