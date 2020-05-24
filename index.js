@@ -1,0 +1,7 @@
+//init frameworks
+const express = require('express');
+const app = express();
+
+
+//create the server
+app.listen(3000, () => console.log('Server on Port 3000'));
