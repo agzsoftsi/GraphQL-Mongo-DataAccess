@@ -21,6 +21,16 @@ npm -v
 npm init --yes
 ```
 
+3. Install Dependencies
+- Install Express(Nodejs)
+```
+npm install express
+```
+- Install GraphQL
+```
+npm install express graphql express-graphql
+```
+
 
 
 
