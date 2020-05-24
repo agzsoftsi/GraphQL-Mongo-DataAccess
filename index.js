@@ -24,7 +24,7 @@ const root = {
 // create route
 app.use('/graphql', express_graphql({
     schema: schema,
-    root: root,
+    rootValue: root,
     graphiql: true
 }));
 
